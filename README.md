@@ -79,7 +79,6 @@ Example dashboard views include:
 * Profit margin by product category
 * Customer segment analysis
 * Monthly revenue trends
-* Top customers by lifetime value
 
 ![Dashboard Overview](images/dashboard_overview.png)
 
