@@ -80,7 +80,7 @@ Example dashboard views include:
 * Customer segment analysis
 * Monthly revenue trends
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](superstore-sales-analysis/images/dashboard_overview.png)
 
 ---
 
